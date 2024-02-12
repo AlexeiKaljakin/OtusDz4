@@ -15,9 +15,9 @@ public class WaitTools {
         this.driver = driver;
     }
 
-    public boolean waitForCondition(ExpectedCondition conditions) {
+    public boolean waitForCondition(ExpectedCondition condition) {
         try {
-            new WebDriverWait(driver, Duration.ofSeconds(10)).until(conditions);
+            new WebDriverWait(driver, Duration.ofSeconds(10)).until(condition);
             return true;
         } catch (TimeoutException ignore) {
             return false;
