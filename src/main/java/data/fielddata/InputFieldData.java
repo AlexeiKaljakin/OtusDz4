@@ -1,4 +1,4 @@
-package data.fieldData;
+package data.fielddata;
 
 public enum InputFieldData {
     FNAME("fname"),
@@ -8,15 +8,17 @@ public enum InputFieldData {
     BLOGNAME("blog_name"),
     DATEOFBRTH("date_of_birth"),
     COMPANY("company"),
-    POSITION("work");
+    POSITION("work"),
+    SKYPE("skype"),
+    HABR("habr");
 
     private String name;
 
-    InputFieldData (String name) {
+    private InputFieldData(String name) {
         this.name = name;
     }
 
     public String getName() {
-        return name;
+        return this.name;
     }
 }

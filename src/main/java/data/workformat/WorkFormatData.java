@@ -4,11 +4,14 @@ public enum WorkFormatData {
     FULLDAY("Полный день"),
     FLEXIBLESCHEDULE("Гибкий график"),
     REMOTELY("Удаленно");
+
     private String name;
-    WorkFormatData(String name) {
+
+    private WorkFormatData(String name) {
         this.name = name;
     }
+
     public String getName() {
-        return name;
+        return this.name;
     }
 }

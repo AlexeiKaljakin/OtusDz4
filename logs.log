@@ -645,3 +645,466 @@
 2024-02-12 21:00:34,163 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
 2024-02-12 21:00:34,373 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
 2024-02-12 21:01:15,702 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:22:38,343 INFO PersonalAreaTest [main] Start driver
+2024-02-14 11:23:29,699 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:23:29,727 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:23:29,754 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:23:29,783 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:23:29,811 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:23:29,845 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:23:51,957 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 11:23:52,148 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 11:24:56,868 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:29:37,696 INFO PersonalAreaTest [main] Start driver
+2024-02-14 11:30:26,367 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:30:26,401 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:30:26,433 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:30:26,461 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:30:26,489 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:30:26,531 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:30:48,909 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 11:30:49,112 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 11:31:31,354 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:31:31,359 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:31:50,043 INFO PersonalAreaTest [main] Start driver
+2024-02-14 11:32:39,536 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:32:39,574 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:32:39,603 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:32:39,631 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:32:39,659 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:32:39,701 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:33:02,116 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 11:33:02,335 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 11:33:44,583 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:33:45,177 INFO PersonalAreaTest [main] Start driver
+2024-02-14 11:33:50,710 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:35:18,476 INFO PersonalAreaTest [main] Start driver
+2024-02-14 11:36:08,954 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:36:08,983 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:36:09,010 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:36:09,043 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:36:09,070 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:36:09,109 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 11:36:31,563 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 11:36:31,765 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 11:37:15,127 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 11:37:15,837 INFO PersonalAreaTest [main] Start driver
+2024-02-14 11:37:21,606 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:25:11,465 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:26:03,288 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:26:03,322 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:26:03,353 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:26:03,384 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:26:03,416 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:26:03,458 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:26:26,100 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 12:26:26,310 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 12:27:08,887 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:27:35,852 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:31:22,216 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:32:13,440 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:32:13,482 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:32:13,516 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:32:13,556 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:32:13,590 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:32:13,657 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:32:35,718 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 12:32:35,970 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 12:33:18,411 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:33:19,214 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:33:22,183 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:39:20,593 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:40:12,980 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:40:13,025 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:40:13,082 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:40:13,123 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:40:13,162 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:40:13,218 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 12:40:36,019 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 12:40:36,350 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 12:43:58,102 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:44:15,040 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:44:43,101 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:44:52,487 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:45:55,175 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:46:20,827 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:49:28,954 INFO PersonalAreaTest [main] Start driver
+2024-02-14 12:49:45,632 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 12:51:13,024 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:03:02,216 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:03:54,565 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:03:54,594 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:03:54,623 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:03:54,652 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:03:54,679 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:03:54,716 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:04:17,007 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 13:04:17,198 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 13:04:59,513 INFO PersonalAreaTest [main] Close driver
+2024-02-14 13:05:00,141 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:05:05,874 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:14:23,213 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:15:14,144 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:15:14,173 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:15:14,200 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:15:14,227 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:15:14,258 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:15:14,292 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:15:36,425 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 13:15:36,601 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 13:16:18,892 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:16:24,670 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:27:19,280 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:28:10,146 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:28:10,176 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:28:10,203 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:28:10,232 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:28:10,261 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:28:10,312 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:28:32,666 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 13:28:32,862 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 13:29:14,383 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:29:15,080 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:29:20,539 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:31:54,620 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:32:43,392 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:32:43,430 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:32:43,458 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:32:43,488 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:32:43,518 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:32:43,560 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:33:06,032 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 13:33:06,225 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 13:33:49,379 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:33:50,142 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:33:55,752 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:39:18,579 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:39:31,426 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:39:31,492 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:39:31,577 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:39:31,673 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:39:31,745 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:39:31,832 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:39:54,209 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 13:39:54,451 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 13:40:03,476 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:55:42,354 INFO PersonalAreaTest [main] Start driver
+2024-02-14 13:56:10,280 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:56:10,350 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:56:10,440 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:56:10,537 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:56:10,596 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:56:10,712 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 13:56:37,230 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 13:56:37,698 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 13:56:55,078 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 13:57:10,026 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:00:21,098 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:01:19,149 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:01:19,180 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:01:19,207 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:01:19,236 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:01:19,264 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:01:19,302 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:01:41,607 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 14:01:41,798 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 14:02:24,677 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:02:25,456 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:02:31,240 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:07:47,174 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:08:36,456 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:08:36,485 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:08:36,514 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:08:36,541 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:08:36,568 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:08:36,604 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:08:58,768 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 14:08:58,947 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 14:09:40,553 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:09:41,288 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:10:39,075 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:11:48,426 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:12:10,341 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:12:27,304 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:13:17,269 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:13:17,300 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:13:17,330 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:13:17,360 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:13:17,390 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:13:17,433 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:13:39,983 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 14:13:40,185 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 14:14:22,794 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:14:23,628 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:15:14,312 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:19:12,405 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:20:00,818 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:20:00,847 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:20:00,875 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:20:00,905 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:20:00,932 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:20:00,969 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:20:23,283 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 14:20:23,471 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 14:21:05,485 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:21:06,138 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:21:55,633 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:47:22,425 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:48:11,823 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:48:11,856 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:48:11,888 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:48:11,919 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:48:11,953 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:48:11,989 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 14:48:34,218 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 14:48:34,465 INFO p.PersonalAreaPage [main] Добавлен 2 контакт
+2024-02-14 14:49:16,140 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 14:49:16,812 INFO PersonalAreaTest [main] Start driver
+2024-02-14 14:50:06,666 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:08:48,700 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:09:43,397 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:09:43,431 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:09:43,465 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:09:43,500 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:09:43,532 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:09:43,597 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:10:06,575 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:16:57,613 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:17:16,813 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:17:34,764 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:17:49,427 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:18:12,114 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:19:07,557 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:19:07,614 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:19:07,668 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:19:07,719 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:19:07,786 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:19:07,840 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:19:32,446 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:28:42,059 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:29:55,723 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:29:55,787 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:29:55,872 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:29:55,949 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:29:56,022 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:29:56,121 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:30:21,593 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:34:59,494 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:36:14,315 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:36:14,346 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:36:14,377 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:36:14,409 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:36:14,439 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:36:14,497 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:36:37,148 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:36:37,456 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:37:20,061 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:37:21,080 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:38:14,517 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:41:54,947 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:42:32,881 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:42:57,411 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:43:48,378 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:43:48,408 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:43:48,434 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:43:48,465 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:43:48,492 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:43:48,528 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:43:49,076 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:44:29,159 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:45:18,276 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:45:18,304 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:45:18,332 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:45:18,361 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:45:18,388 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:45:18,425 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:45:18,696 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:48:40,593 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:49:29,230 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:49:29,267 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:49:29,295 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:49:29,324 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:49:29,354 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:49:29,384 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:49:51,639 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:49:51,962 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:50:45,324 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:51:58,597 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:52:47,927 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:52:47,961 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:52:47,992 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:52:48,019 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:52:48,047 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:52:48,086 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:53:10,468 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:53:10,819 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:53:39,404 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:54:30,669 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:54:30,697 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:54:30,726 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:54:30,756 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:54:30,784 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:54:30,824 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:54:53,231 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:54:53,564 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 17:55:36,181 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:55:36,809 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:56:26,674 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:58:12,402 INFO PersonalAreaTest [main] Start driver
+2024-02-14 17:59:03,622 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:59:03,657 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:59:03,690 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:59:03,721 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:59:03,761 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:59:03,793 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 17:59:04,133 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 17:59:39,787 INFO PersonalAreaTest [main] Start driver
+2024-02-14 18:00:28,888 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:00:28,919 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:00:28,950 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:00:28,982 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:00:29,016 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:00:29,060 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:00:51,404 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 18:02:48,894 INFO PersonalAreaTest [main] Start driver
+2024-02-14 18:03:37,792 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:03:37,829 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:03:37,858 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:03:37,889 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:03:37,921 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:03:37,959 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:04:00,183 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 18:05:33,764 INFO PersonalAreaTest [main] Start driver
+2024-02-14 18:06:23,768 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:06:23,806 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:06:23,838 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:06:23,869 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:06:23,901 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:06:23,938 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:06:46,333 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 18:10:26,253 INFO PersonalAreaTest [main] Start driver
+2024-02-14 18:10:35,514 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 18:15:38,199 INFO PersonalAreaTest [main] Start driver
+2024-02-14 18:15:48,632 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 18:16:26,176 INFO PersonalAreaTest [main] Start driver
+2024-02-14 18:17:15,866 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:17:15,900 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:17:15,930 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:17:15,957 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:17:15,985 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:17:16,025 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 18:17:38,483 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:08:29,403 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:10:06,619 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:10:26,313 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:11:17,515 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:11:17,546 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:11:17,576 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:11:17,605 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:11:17,636 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:11:17,677 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:11:39,571 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:14:15,669 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:15:06,572 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:15:06,602 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:15:06,630 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:15:06,658 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:15:06,686 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:15:06,715 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:15:28,619 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:22:03,713 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:22:35,051 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:22:35,084 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:22:35,111 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:22:35,142 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:22:35,180 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:22:35,217 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:22:57,246 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:24:30,774 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:25:21,095 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:25:21,124 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:25:21,154 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:25:21,189 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:25:21,217 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:25:21,260 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:25:43,170 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:26:40,935 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:27:29,645 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:27:29,676 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:27:29,705 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:27:29,735 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:27:29,768 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:27:29,809 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:27:51,512 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:31:29,796 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:32:18,506 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:32:18,536 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:32:18,579 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:32:18,609 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:32:18,641 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:32:18,681 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:32:40,599 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:37:47,378 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:38:52,367 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:38:52,398 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:38:52,427 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:38:52,457 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:38:52,486 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:38:52,526 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:39:14,347 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:43:16,583 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:43:22,775 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:43:44,471 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:44:33,066 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:44:33,095 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:44:33,133 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:44:33,162 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:44:33,194 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:44:33,233 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:44:55,235 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:46:00,016 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:46:48,978 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:46:49,007 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:46:49,034 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:46:49,064 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:46:49,093 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:46:49,136 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 20:47:10,939 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 20:47:11,258 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 20:47:52,673 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:47:53,381 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:48:43,158 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:58:15,901 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:58:34,727 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 20:58:58,374 INFO PersonalAreaTest [main] Start driver
+2024-02-14 20:59:14,805 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 21:00:34,587 INFO PersonalAreaTest [main] Start driver
+2024-02-14 21:00:51,335 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 21:01:02,539 INFO PersonalAreaTest [main] Start driver
+2024-02-14 21:01:19,379 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 21:01:28,555 INFO PersonalAreaTest [main] Start driver
+2024-02-14 21:01:45,735 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 21:02:27,336 INFO PersonalAreaTest [main] Start driver
+2024-02-14 21:03:19,556 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 21:03:19,585 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 21:03:19,614 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 21:03:19,646 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 21:03:19,673 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 21:03:19,712 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-14 21:03:42,155 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 21:03:42,466 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-14 21:04:24,732 INFO PersonalAreaTest [main] Quit driver
+2024-02-14 21:04:25,300 INFO PersonalAreaTest [main] Start driver
+2024-02-14 21:05:18,061 INFO PersonalAreaTest [main] Quit driver
+2024-02-19 10:30:54,688 INFO PersonalAreaTest [main] Start driver
+2024-02-19 10:31:45,700 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-19 10:31:45,729 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-19 10:31:45,757 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-19 10:31:45,786 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-19 10:31:45,813 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-19 10:31:45,858 INFO p.PersonalAreaPage [main] Fields cleared
+2024-02-19 10:32:08,199 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-19 10:32:08,533 INFO p.PersonalAreaPage [main] Добавлен 1 контакт
+2024-02-19 10:32:49,974 INFO PersonalAreaTest [main] Quit driver
+2024-02-19 10:32:51,433 INFO PersonalAreaTest [main] Start driver
+2024-02-19 10:33:43,570 INFO PersonalAreaTest [main] Quit driver
